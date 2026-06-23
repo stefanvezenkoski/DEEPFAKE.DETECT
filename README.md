@@ -1,4 +1,5 @@
 # AI vs Real Image Detection Project
+# DEEPFAKE.DETECT
 
 This project is divided into several key components that make up the complete application for detecting AI-generated vs. real images.
 
@@ -16,4 +17,3 @@ The project has the following directory structure:
     *   **`real/`** - Folder with real/authentic sample images.
 *   **`README.md`**.
 
-# DEEPFAKE.DETECT
