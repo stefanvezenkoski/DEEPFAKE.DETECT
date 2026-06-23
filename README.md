@@ -1,5 +1,4 @@
 # AI vs Real Image Detection Project
-# DEEPFAKE.DETECT
 
 This project is divided into several key components that make up the complete application for detecting AI-generated vs. real images.
 
