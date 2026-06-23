@@ -17,3 +17,4 @@ The project has the following directory structure:
     *   **`real/`** - Folder with real/authentic sample images.
 
 THE FULL REPO CAN BE FOUND HERE: https://github.com/stefanvezenkoski/DEEPFAKE.DETECT
+# DEEPFAKE.DETECT
